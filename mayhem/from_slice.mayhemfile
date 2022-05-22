@@ -1,0 +1,7 @@
+project: json
+target: from_slice
+
+# image: ghcr.io/nottirb/json:latest
+
+cmds:
+    - cmd: /from_slice
